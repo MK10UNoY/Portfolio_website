@@ -1,4 +1,4 @@
-//<script>
+<!-- //<script>
 //	import Home from '$lib/Home.svelte';
 //	import About from '$lib/About.svelte';
 //	import Projects from '$lib/Projects.svelte';
@@ -10,7 +10,7 @@
 //<About />
 //<Projects />
 //<Contact />
-//<Footer />
+//<Footer /> -->
 
 <script>
 	import { onMount } from 'svelte';
