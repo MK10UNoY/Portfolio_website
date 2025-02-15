@@ -17,6 +17,6 @@
 	import { goto } from '$app/navigation';
 
 	onMount(() => {
-		goto('/newpage'); // Replace with your actual route
+		goto('https://mk10unoy.github.io/mrinmoykoiri_portfolio/'); // Replace with your actual route
 	});
 </script>
