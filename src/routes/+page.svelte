@@ -11,12 +11,12 @@
 //<Projects />
 //<Contact />
 //<Footer /> -->
-
 <script>
 	import { onMount } from 'svelte';
-	import { goto } from '$app/navigation';
 
 	onMount(() => {
-		goto('https://mk10unoy.github.io/mrinmoykoiri_portfolio/'); // Replace with your actual route
+		window.location.href = 'https://mk10unoy.github.io/mrinmoykoiri_portfolio/';
 	});
 </script>
+
+<p>Redirecting...</p>
